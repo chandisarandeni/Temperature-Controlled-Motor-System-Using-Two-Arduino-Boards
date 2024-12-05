@@ -1,1 +1,1 @@
-# Motion-Detection-Using-Arduino
+# Temperature-Controlled Motor System Using Two Arduino Boards
