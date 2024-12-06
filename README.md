@@ -1,5 +1,9 @@
 # Temperature-Controlled Motor System Using Two Arduino Boards
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a115f283-caf1-454c-8c73-b577e6230803" alt="Daring Migelo" width="700">
+</p>
+
 ## Overview  
 This project demonstrates a system using two Arduino boards, an LM35 temperature sensor, and an L298N motor driver to control a DC motor's speed and direction based on temperature readings. The setup involves serial communication between the two Arduinos for data transfer and hardware control.  
 
@@ -97,4 +101,4 @@ void loop() {
 - Automation and IoT projects  
 - Educational purposes for learning Arduino communication and motor control  
 
-This system combines real-time sensor data processing, communication, and motor control, making it a versatile learning project for beginners and enthusiasts.  
+This system combines real-time sensor data processing, communication, and motor control, making it a versatile learning project for beginners and enthusiasts.
